@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+!apps/services/login/.env.example
+!apps/services/soap/.env.example
+apps/web-monolito/public/uploads/*
+*.log
+.DS_Store

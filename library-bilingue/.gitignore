@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+apps/web-monolito/public/uploads/*
+*.log
+.DS_Store
+
+node_modules/
+.venv/
+.venv-wsl/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
